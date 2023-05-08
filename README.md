@@ -1,24 +1,13 @@
-# Petro-Skaletskyy
-resume
-Petro Skaletskyy
-Middle System Engineer at Capgemini Engineering
-Experience:
-Capgemini Engineering
-Middle System Engineer
-October 2022 - Present (7 months)
-Lviv, Ukraine
-Junior System Engineer
-September 2021 - October 2022 (1 year 2 months)
-Lviv, Ukraine
-Lohika
-Junior System Engineer
-July 2021 - October 2022 (1 year 4 months)
-Lviv, Ukraine
-Continental Farmers Group
-Leading Information Technology Specialist
-May 2020 - July 2021 (1 year 3 months)
-Ternopil, Ukraine
-BitterNet
-Communication systems engineer
-June 2007 - April 2016 (8 years 11 months)
-Ternopil, Ukraine
+**DevOps Engineer**
+
+||**Skaletskyy Petro**|
+| :- | :- |
+|**Location**|Ukraine, Lviv|
+|**Experience**||
+|**Technical skills**|<p>- Linux;</p><p>- Docker;</p><p>- Kubernetes;</p><p>- Google Cloud Platform (GCP);</p><p>- Amazon Web Services(AWS);</p><p>- Git;</p><p>- Terraform;</p><p>- Jenkins;</p><p>- Ansible</p><p></p>|
+|**Programming languages**|Python, Java, Bash.|
+|**Courses, programs** |<p> - Junior Java Developer - Logos IT Academy</p>|
+|**Certificates** |<p>- AWS Cloud Practitioner</p>|
+|**Education**||
+|<p>September 2004 – </p><p>June 2007</p>|<p>**University:** Ternopil Ivan Puljui State Technical University </p><p>**Faculty:** Faculty of computer and information systems and software engineering</p><p>**Specialty:** System Engineer</p><p>**Degree**: Bachelor</p>|
+|<p>September 2015 – </p><p>February 2017</p>|<p>**University:** Ternopil Ivan Puljui National Technical University </p><p>**Faculty:** Faculty of computer and information systems and software engineering</p><p>**Specialty:** System Engineer</p><p>**Degree**: Master</p>|
